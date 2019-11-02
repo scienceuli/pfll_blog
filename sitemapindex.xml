@@ -6,6 +6,14 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://scienceuli.github.io/pfll/authors/roberto-alsina.xml</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://scienceuli.github.io/pfll/authors/ulrich-kilian.xml</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://scienceuli.github.io/pfll/categories/blog.xml</loc>
   <lastmod>2019-11-02T08:24:00Z</lastmod>
  </sitemap>
@@ -24,6 +32,14 @@
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/categories/python.xml</loc>
   <lastmod>2019-11-02T08:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://scienceuli.github.io/pfll/en/authors/roberto-alsina.xml</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://scienceuli.github.io/pfll/en/authors/ulrich-kilian.xml</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/en/categories/blog.xml</loc>
@@ -47,30 +63,30 @@
  </sitemap>
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/en/galleries/demo/rss.xml</loc>
-  <lastmod>2019-11-02T08:24:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/en/galleries/rss.xml</loc>
-  <lastmod>2019-11-02T08:24:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/en/rss.xml</loc>
-  <lastmod>2019-11-02T08:25:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/galleries/demo/rss.xml</loc>
-  <lastmod>2019-11-02T08:24:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/galleries/rss.xml</loc>
-  <lastmod>2019-11-02T08:24:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/rss.xml</loc>
-  <lastmod>2019-11-02T08:25:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://scienceuli.github.io/pfll/sitemap.xml</loc>
-  <lastmod>2019-11-02T08:25:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </sitemap>
 </sitemapindex>

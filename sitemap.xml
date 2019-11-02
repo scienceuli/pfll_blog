@@ -7,15 +7,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://scienceuli.github.io/pfll/</loc>
-  <lastmod>2019-11-02T08:25:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://scienceuli.github.io/pfll/2012/</loc>
   <lastmod>2019-11-02T08:24:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scienceuli.github.io/pfll/2019/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scienceuli.github.io/pfll/archive.html</loc>
-  <lastmod>2019-11-02T08:24:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scienceuli.github.io/pfll/authors/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scienceuli.github.io/pfll/authors/roberto-alsina/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scienceuli.github.io/pfll/authors/ulrich-kilian/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://scienceuli.github.io/pfll/categories/</loc>
@@ -43,15 +59,31 @@
  </url>
  <url>
   <loc>https://scienceuli.github.io/pfll/en/</loc>
-  <lastmod>2019-11-02T08:25:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://scienceuli.github.io/pfll/en/2012/</loc>
   <lastmod>2019-11-02T08:24:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scienceuli.github.io/pfll/en/2019/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scienceuli.github.io/pfll/en/archive.html</loc>
-  <lastmod>2019-11-02T08:24:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scienceuli.github.io/pfll/en/authors/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scienceuli.github.io/pfll/en/authors/roberto-alsina/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scienceuli.github.io/pfll/en/authors/ulrich-kilian/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://scienceuli.github.io/pfll/en/categories/</loc>
@@ -156,6 +188,11 @@
   <xhtml:link rel="alternate" hreflang="de" href="https://scienceuli.github.io/pfll/pages/theming/" />
  </url>
  <url>
+  <loc>https://scienceuli.github.io/pfll/en/posts/erster-post/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="de" href="https://scienceuli.github.io/pfll/posts/erster-post/" />
+ </url>
+ <url>
   <loc>https://scienceuli.github.io/pfll/en/posts/welcome-to-nikola/</loc>
   <lastmod>2019-11-02T08:24:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="de" href="https://scienceuli.github.io/pfll/posts/welcome-to-nikola/" />
@@ -178,7 +215,7 @@
  </url>
  <url>
   <loc>https://scienceuli.github.io/pfll/listings/hello.py.html</loc>
-  <lastmod>2019-11-02T08:24:00Z</lastmod>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://scienceuli.github.io/pfll/pages/about-nikola/</loc>
@@ -235,6 +272,10 @@
  <url>
   <loc>https://scienceuli.github.io/pfll/pages/theming/</loc>
   <lastmod>2019-11-02T08:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scienceuli.github.io/pfll/posts/erster-post/</loc>
+  <lastmod>2019-11-02T11:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://scienceuli.github.io/pfll/posts/welcome-to-nikola/</loc>
